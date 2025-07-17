@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/radulepy-mcp-ai-agents-template-badge.png)](https://mseep.ai/app/radulepy-mcp-ai-agents-template)
+
 ![](https://img.shields.io/badge/author-Radu%20Lepadatu-brightgreen)
 ![](https://img.shields.io/badge/language-TypeScript-blue)
 ![](https://img.shields.io/github/issues/Radulepy/mcp-ai-agents-template)
